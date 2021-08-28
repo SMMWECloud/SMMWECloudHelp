@@ -63,6 +63,13 @@
 
 其他问题可以在群里提问
 
+### SMMWE Cloud 的 WebDAV 功能
+
+本群的SMMWE关卡分享网站可能对手机不友好，特此推出WebDAV功能，食用方法如下：
+1、下载ES文件浏览器并打开，然后在侧栏中找到FTP
+2、添加一个「webdav」服务器，在「服务器」一栏输入 「smmwe-cloud-v2.herokuapp.com/webdav」 ，并勾选「加密」，然后点击确定。
+3、之后就能在FTP列表内看到SMMWE Cloud了，可以随意从上面复制关卡。
+
 ### QQ群
 
 主群932028418

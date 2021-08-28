@@ -65,10 +65,15 @@
 
 ### SMMWE Cloud 的 WebDAV 功能
 
-本群的SMMWE关卡分享网站可能对手机不友好，特此推出WebDAV功能，食用方法如下：
-1、下载ES文件浏览器并打开，然后在侧栏中找到FTP
-2、添加一个「webdav」服务器，在「服务器」一栏输入 「smmwe-cloud-v2.herokuapp.com/webdav」 ，并勾选「加密」，然后点击确定。
-3、之后就能在FTP列表内看到SMMWE Cloud了，可以随意从上面复制关卡。
+本群的SMMWE地图分享网站对手机不友好，特此推出WebDAV功能（第二版）帮助手机玩家下载地图。
+
+1、从群文件或Google Play下载WebDAV Xplorer并打开
+
+2、点击Add New Server，名字随便填，URL填「https://smmwe-cloud-v2.herokuapp.com/webdav/ 」，Default Download Folder设为你SMMWE的地图文件夹（内部存储/SMM_WE）即可。
+
+3、返回WebDAV Xplorer的主界面即可看到刚才添加的服务器，可以点进去下载地图。
+
+（Tips：这个软件所有操作都需要双击，如果看不懂此公告请看群文件视频）
 
 ### QQ群
 

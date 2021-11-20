@@ -69,7 +69,7 @@
 
 1、从群文件或Google Play下载WebDAV Xplorer并打开
 
-2、点击Add New Server，名字随便填，URL填「https://smmwe-cloud-v2.herokuapp.com/webdav/ 」，Default Download Folder设为你SMMWE的地图文件夹（内部存储/SMM_WE）即可。
+2、点击Add New Server，名字随便填，URL填「https://smmwe.herokuapp.com/wd/ 」，Default Download Folder设为你SMMWE的地图文件夹（内部存储/SMM_WE）即可。
 
 3、返回WebDAV Xplorer的主界面即可看到刚才添加的服务器，可以点进去下载地图。
 
